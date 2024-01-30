@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@hookform/error-message": "^2.0.1",
     "console": "^0.7.2",
     "prompt-sync": "^4.2.0"
   },
